@@ -1,0 +1,34 @@
+Lista de cosas para hacer:
+
+///// Sistema de "duelo automático", apenas entras busca un usuario que no tenga oponente (Si no hay ninguno espera...) y abre pelea. TODOS CON EL MISMO USUARIO.
+	* Listo desde el 09/07/10
+
+///// Reducción de paquetes por frame (SUPER ALTA para juegos via internet)
+	* Listo desde el 16/07/10
+
+///// Sistema de creación de cuenta (SUPER ALTA)
+	* Listo desde el 14/07/10
+
+///// Pingear usuario cada X tiempo para ver si sigue online (Si el programa se cuelga y cerras el proceso el servidor sigue viendo al usuario logueado) (SUPER ALTA)
+	* Listo desde el 10/07/10
+	
+///// Cartas con link a la imagen (SUPER ALTA). NOTA: VA A SER UN LIO DESPUES MIGRAR CARTAS SI NO HACEMOS ESTO!
+	* Listo desde el 08/07/10 (nuevo atributo en el CDF: url) Las imagenes de las cartas viejas se subieron a http://gzaloprgm.com.ar/cartasLegacy/
+
+///// Mas pulenta los mensajes y pantalla de login (Media)
+	* Listo desde el 16/07/10
+
+- Busqueda de memory leaks (SUPER ALTA)	
+- Implementar cartas item que afectan a algunas especificas (SUPER ALTA)
+- Implementar acciones item restantes (SUPER ALTA)
+- Sistema de duelos mas peola, sala de chat para retar (Alta!)
+
+- Sistema de compra de cartas, maso para empezar (Baja)
+- Estadisticas en los personajes (Baja)
+- Implementación de efecto de ataques y objetos (Baja)
+- Tabla de IP para loguearse (Sistema anti-ddos) (Baja)
+- Crear cartas desde el cliente (Cuesta dinero) (Baja)
+- Las cartas tienen "tipos" y existen cartas de terreno que potencia un tipo y perjudican a otro (Super Baja)
+- Permisos de usuarios (Super Baja)
+- Compresión de recursos (Super Baja)
+- Actualizador de cliente (Super Baja)
