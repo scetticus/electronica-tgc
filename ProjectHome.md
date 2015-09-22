@@ -1,0 +1,1 @@
+A multiplayer card game inspired in Pokemon(tm) Trading card game
